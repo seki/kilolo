@@ -19,7 +19,7 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="71q-Wr-y44">
                                 <rect key="frame" x="80" y="557" width="215" height="30"/>
-                                <state key="normal" title="Correct Kilocarorie"/>
+                                <state key="normal" title="Correct kilocalorie"/>
                                 <connections>
                                     <action selector="doCorrect:" destination="BYZ-38-t0r" eventType="touchUpInside" id="wOy-jB-LTK"/>
                                 </connections>
